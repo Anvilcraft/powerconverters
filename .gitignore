@@ -1,4 +1,9 @@
+.classpath
+.eclipse
 .gradle
 .idea
+.project
+.settings
+bin
 build
 run
